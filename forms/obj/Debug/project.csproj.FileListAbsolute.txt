@@ -1,0 +1,16 @@
+C:\Users\Hunain\Desktop\New folder\Database System\project\bin\Debug\project.exe.config
+C:\Users\Hunain\Desktop\New folder\Database System\project\bin\Debug\project.exe
+C:\Users\Hunain\Desktop\New folder\Database System\project\bin\Debug\project.pdb
+C:\Users\Hunain\Desktop\New folder\Database System\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\Hunain\Desktop\New folder\Database System\project\obj\Debug\project.csproj.GenerateResource.Cache
+C:\Users\Hunain\Desktop\New folder\Database System\project\obj\Debug\project.exe
+C:\Users\Hunain\Desktop\New folder\Database System\project\obj\Debug\project.pdb
+C:\Users\Hunain\Desktop\New folder\Database System\project\obj\Debug\project.Main.resources
+C:\Users\Hunain\Desktop\New folder\Database System\project\obj\Debug\project.SalePurchaseItems.resources
+C:\Users\Hunain\Desktop\New folder\Database System\project\obj\Debug\project.csprojResolveAssemblyReference.cache
+C:\Users\Hunain\Desktop\New folder\Database System\project\obj\Debug\project.NewCustomer.resources
+C:\Users\Hunain\Desktop\New folder\Database System\project\obj\Debug\project.New_Sale_Purchase.resources
+C:\Users\Hunain\Desktop\New folder\Database System\project\obj\Debug\project.AddStockWarehouse.resources
+C:\Users\Hunain\Desktop\New folder\Database System\project\obj\Debug\project.CustomerInfo.resources
+C:\Users\Hunain\Desktop\New folder\Database System\project\obj\Debug\project.Sale_Purchase_Details.resources
+C:\Users\Hunain\Desktop\New folder\Database System\project\obj\Debug\project.Stock_Warehouse.resources
